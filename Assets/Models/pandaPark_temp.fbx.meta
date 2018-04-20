@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 5026177d769594ca5b44d12906e7b475
+timeCreated: 1520384126
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bamboo
+    100002: bamboo 1
+    100004: bamboo1
+    100006: bamboo1 1
+    100008: bamboo10
+    100010: bamboo10 1
+    100012: bamboo10 2
+    100014: bamboo10 3
+    100016: bamboo11
+    100018: bamboo11 1
+    100020: bamboo11 2
+    100022: bamboo11 3
+    100024: bamboo12
+    100026: bamboo12 1
+    100028: bamboo12 2
+    100030: bamboo12 3
+    100032: bamboo13
+    100034: bamboo13 1
+    100036: bamboo13 2
+    100038: bamboo13 3
+    100040: bamboo14
+    100042: bamboo14 1
+    100044: bamboo14 2
+    100046: bamboo14 3
+    100048: bamboo15
+    100050: bamboo15 1
+    100052: bamboo15 2
+    100054: bamboo16
+    100056: bamboo16 1
+    100058: bamboo17
+    100060: bamboo17 1
+    100062: bamboo18
+    100064: bamboo18 1
+    100066: bamboo18 2
+    100068: bamboo18 3
+    100070: bamboo19
+    100072: bamboo19 1
+    100074: bamboo19 2
+    100076: bamboo19 3
+    100078: bamboo2
+    100080: bamboo2 1
+    100082: bamboo2 2
+    100084: bamboo20
+    100086: bamboo20 1
+    100088: bamboo20 2
+    100090: bamboo20 3
+    100092: bamboo21
+    100094: bamboo21 1
+    100096: bamboo23
+    100098: bamboo24
+    100100: bamboo25
+    100102: bamboo26
+    100104: bamboo27
+    100106: bamboo3
+    100108: bamboo3 1
+    100110: bamboo3 2
+    100112: bamboo3 3
+    100114: bamboo4
+    100116: bamboo4 1
+    100118: bamboo4 2
+    100120: bamboo4 3
+    100122: bamboo5
+    100124: bamboo5 1
+    100126: bamboo5 2
+    100128: bamboo5 3
+    100130: bamboo6
+    100132: bamboo6 1
+    100134: bamboo6 2
+    100136: bamboo6 3
+    100138: bamboo7
+    100140: bamboo7 1
+    100142: bamboo7 2
+    100144: bamboo7 3
+    100146: bamboo8
+    100148: bamboo8 1
+    100150: bamboo8 2
+    100152: bamboo8 3
+    100154: bamboo9
+    100156: bamboo9 1
+    100158: bamboo9 2
+    100160: bamboo9 3
+    100162: bamboo_grp1
+    100164: bamboo_grp2
+    100166: bamboo_grp3
+    100168: bamboo_grp4
+    100170: bigRock
+    100172: ground
+    100174: hollow_log
+    100176: house
+    100178: log1
+    100180: log1 1
+    100182: log2
+    100184: log3
+    100186: log4
+    100188: log5
+    100190: //RootNode
+    100192: pen
+    100194: platform
+    100196: platform1
+    100198: ramp1
+    100200: ramp2
+    100202: ramp3
+    100204: stump1
+    100206: stump2
+    100208: Y_log
+    100210: Y_log 1
+    100212: Y_log1
+    100214: Y_log1 1
+    100216: Y_log2
+    100218: Y_log3
+    400000: bamboo
+    400002: bamboo 1
+    400004: bamboo1
+    400006: bamboo1 1
+    400008: bamboo10
+    400010: bamboo10 1
+    400012: bamboo10 2
+    400014: bamboo10 3
+    400016: bamboo11
+    400018: bamboo11 1
+    400020: bamboo11 2
+    400022: bamboo11 3
+    400024: bamboo12
+    400026: bamboo12 1
+    400028: bamboo12 2
+    400030: bamboo12 3
+    400032: bamboo13
+    400034: bamboo13 1
+    400036: bamboo13 2
+    400038: bamboo13 3
+    400040: bamboo14
+    400042: bamboo14 1
+    400044: bamboo14 2
+    400046: bamboo14 3
+    400048: bamboo15
+    400050: bamboo15 1
+    400052: bamboo15 2
+    400054: bamboo16
+    400056: bamboo16 1
+    400058: bamboo17
+    400060: bamboo17 1
+    400062: bamboo18
+    400064: bamboo18 1
+    400066: bamboo18 2
+    400068: bamboo18 3
+    400070: bamboo19
+    400072: bamboo19 1
+    400074: bamboo19 2
+    400076: bamboo19 3
+    400078: bamboo2
+    400080: bamboo2 1
+    400082: bamboo2 2
+    400084: bamboo20
+    400086: bamboo20 1
+    400088: bamboo20 2
+    400090: bamboo20 3
+    400092: bamboo21
+    400094: bamboo21 1
+    400096: bamboo23
+    400098: bamboo24
+    400100: bamboo25
+    400102: bamboo26
+    400104: bamboo27
+    400106: bamboo3
+    400108: bamboo3 1
+    400110: bamboo3 2
+    400112: bamboo3 3
+    400114: bamboo4
+    400116: bamboo4 1
+    400118: bamboo4 2
+    400120: bamboo4 3
+    400122: bamboo5
+    400124: bamboo5 1
+    400126: bamboo5 2
+    400128: bamboo5 3
+    400130: bamboo6
+    400132: bamboo6 1
+    400134: bamboo6 2
+    400136: bamboo6 3
+    400138: bamboo7
+    400140: bamboo7 1
+    400142: bamboo7 2
+    400144: bamboo7 3
+    400146: bamboo8
+    400148: bamboo8 1
+    400150: bamboo8 2
+    400152: bamboo8 3
+    400154: bamboo9
+    400156: bamboo9 1
+    400158: bamboo9 2
+    400160: bamboo9 3
+    400162: bamboo_grp1
+    400164: bamboo_grp2
+    400166: bamboo_grp3
+    400168: bamboo_grp4
+    400170: bigRock
+    400172: ground
+    400174: hollow_log
+    400176: house
+    400178: log1
+    400180: log1 1
+    400182: log2
+    400184: log3
+    400186: log4
+    400188: log5
+    400190: //RootNode
+    400192: pen
+    400194: platform
+    400196: platform1
+    400198: ramp1
+    400200: ramp2
+    400202: ramp3
+    400204: stump1
+    400206: stump2
+    400208: Y_log
+    400210: Y_log 1
+    400212: Y_log1
+    400214: Y_log1 1
+    400216: Y_log2
+    400218: Y_log3
+    2100000: lambert1
+    2300000: bamboo
+    2300002: bamboo 1
+    2300004: bamboo1
+    2300006: bamboo1 1
+    2300008: bamboo10
+    2300010: bamboo10 1
+    2300012: bamboo10 2
+    2300014: bamboo10 3
+    2300016: bamboo11
+    2300018: bamboo11 1
+    2300020: bamboo11 2
+    2300022: bamboo11 3
+    2300024: bamboo12
+    2300026: bamboo12 1
+    2300028: bamboo12 2
+    2300030: bamboo12 3
+    2300032: bamboo13
+    2300034: bamboo13 1
+    2300036: bamboo13 2
+    2300038: bamboo13 3
+    2300040: bamboo14
+    2300042: bamboo14 1
+    2300044: bamboo14 2
+    2300046: bamboo14 3
+    2300048: bamboo15
+    2300050: bamboo15 1
+    2300052: bamboo15 2
+    2300054: bamboo16
+    2300056: bamboo16 1
+    2300058: bamboo17
+    2300060: bamboo17 1
+    2300062: bamboo18
+    2300064: bamboo18 1
+    2300066: bamboo18 2
+    2300068: bamboo18 3
+    2300070: bamboo19
+    2300072: bamboo19 1
+    2300074: bamboo19 2
+    2300076: bamboo19 3
+    2300078: bamboo2
+    2300080: bamboo2 1
+    2300082: bamboo2 2
+    2300084: bamboo20
+    2300086: bamboo20 1
+    2300088: bamboo20 2
+    2300090: bamboo20 3
+    2300092: bamboo21
+    2300094: bamboo21 1
+    2300096: bamboo23
+    2300098: bamboo24
+    2300100: bamboo25
+    2300102: bamboo26
+    2300104: bamboo27
+    2300106: bamboo3
+    2300108: bamboo3 1
+    2300110: bamboo3 2
+    2300112: bamboo3 3
+    2300114: bamboo4
+    2300116: bamboo4 1
+    2300118: bamboo4 2
+    2300120: bamboo4 3
+    2300122: bamboo5
+    2300124: bamboo5 1
+    2300126: bamboo5 2
+    2300128: bamboo5 3
+    2300130: bamboo6
+    2300132: bamboo6 1
+    2300134: bamboo6 2
+    2300136: bamboo6 3
+    2300138: bamboo7
+    2300140: bamboo7 1
+    2300142: bamboo7 2
+    2300144: bamboo7 3
+    2300146: bamboo8
+    2300148: bamboo8 1
+    2300150: bamboo8 2
+    2300152: bamboo8 3
+    2300154: bamboo9
+    2300156: bamboo9 1
+    2300158: bamboo9 2
+    2300160: bamboo9 3
+    2300162: bigRock
+    2300164: ground
+    2300166: hollow_log
+    2300168: house
+    2300170: log1
+    2300172: log1 1
+    2300174: log2
+    2300176: log3
+    2300178: log4
+    2300180: log5
+    2300182: platform
+    2300184: platform1
+    2300186: stump1
+    2300188: stump2
+    2300190: Y_log
+    2300192: Y_log 1
+    2300194: Y_log1
+    2300196: Y_log1 1
+    2300198: Y_log2
+    2300200: Y_log3
+    3300000: bamboo
+    3300002: bamboo 1
+    3300004: bamboo1
+    3300006: bamboo1 1
+    3300008: bamboo10
+    3300010: bamboo10 1
+    3300012: bamboo10 2
+    3300014: bamboo10 3
+    3300016: bamboo11
+    3300018: bamboo11 1
+    3300020: bamboo11 2
+    3300022: bamboo11 3
+    3300024: bamboo12
+    3300026: bamboo12 1
+    3300028: bamboo12 2
+    3300030: bamboo12 3
+    3300032: bamboo13
+    3300034: bamboo13 1
+    3300036: bamboo13 2
+    3300038: bamboo13 3
+    3300040: bamboo14
+    3300042: bamboo14 1
+    3300044: bamboo14 2
+    3300046: bamboo14 3
+    3300048: bamboo15
+    3300050: bamboo15 1
+    3300052: bamboo15 2
+    3300054: bamboo16
+    3300056: bamboo16 1
+    3300058: bamboo17
+    3300060: bamboo17 1
+    3300062: bamboo18
+    3300064: bamboo18 1
+    3300066: bamboo18 2
+    3300068: bamboo18 3
+    3300070: bamboo19
+    3300072: bamboo19 1
+    3300074: bamboo19 2
+    3300076: bamboo19 3
+    3300078: bamboo2
+    3300080: bamboo2 1
+    3300082: bamboo2 2
+    3300084: bamboo20
+    3300086: bamboo20 1
+    3300088: bamboo20 2
+    3300090: bamboo20 3
+    3300092: bamboo21
+    3300094: bamboo21 1
+    3300096: bamboo23
+    3300098: bamboo24
+    3300100: bamboo25
+    3300102: bamboo26
+    3300104: bamboo27
+    3300106: bamboo3
+    3300108: bamboo3 1
+    3300110: bamboo3 2
+    3300112: bamboo3 3
+    3300114: bamboo4
+    3300116: bamboo4 1
+    3300118: bamboo4 2
+    3300120: bamboo4 3
+    3300122: bamboo5
+    3300124: bamboo5 1
+    3300126: bamboo5 2
+    3300128: bamboo5 3
+    3300130: bamboo6
+    3300132: bamboo6 1
+    3300134: bamboo6 2
+    3300136: bamboo6 3
+    3300138: bamboo7
+    3300140: bamboo7 1
+    3300142: bamboo7 2
+    3300144: bamboo7 3
+    3300146: bamboo8
+    3300148: bamboo8 1
+    3300150: bamboo8 2
+    3300152: bamboo8 3
+    3300154: bamboo9
+    3300156: bamboo9 1
+    3300158: bamboo9 2
+    3300160: bamboo9 3
+    3300162: bigRock
+    3300164: ground
+    3300166: hollow_log
+    3300168: house
+    3300170: log1
+    3300172: log1 1
+    3300174: log2
+    3300176: log3
+    3300178: log4
+    3300180: log5
+    3300182: platform
+    3300184: platform1
+    3300186: stump1
+    3300188: stump2
+    3300190: Y_log
+    3300192: Y_log 1
+    3300194: Y_log1
+    3300196: Y_log1 1
+    3300198: Y_log2
+    3300200: Y_log3
+    4300000: ground
+    4300002: bamboo14
+    4300004: bamboo13
+    4300006: bamboo12
+    4300008: bamboo11
+    4300010: bamboo10
+    4300012: bamboo9
+    4300014: bamboo8
+    4300016: bamboo7
+    4300018: bamboo6
+    4300020: bamboo5
+    4300022: bamboo4
+    4300024: bamboo3
+    4300026: bamboo2
+    4300028: bamboo15
+    4300030: bamboo18
+    4300032: bamboo19
+    4300034: bamboo20
+    4300036: bamboo21
+    4300038: bamboo14
+    4300040: bamboo13
+    4300042: bamboo12
+    4300044: bamboo11
+    4300046: bamboo10
+    4300048: bamboo9
+    4300050: bamboo8
+    4300052: bamboo7
+    4300054: bamboo6
+    4300056: bamboo5
+    4300058: bamboo4
+    4300060: bamboo3
+    4300062: bamboo18
+    4300064: bamboo19
+    4300066: bamboo20
+    4300068: bamboo14
+    4300070: bamboo13
+    4300072: bamboo12
+    4300074: bamboo11
+    4300076: bamboo10
+    4300078: bamboo9
+    4300080: bamboo8
+    4300082: bamboo7
+    4300084: bamboo6
+    4300086: bamboo5
+    4300088: bamboo4
+    4300090: bamboo3
+    4300092: bamboo2
+    4300094: bamboo1
+    4300096: bamboo
+    4300098: bamboo15
+    4300100: bamboo16
+    4300102: bamboo17
+    4300104: bamboo18
+    4300106: bamboo19
+    4300108: bamboo20
+    4300110: bamboo14
+    4300112: bamboo13
+    4300114: bamboo12
+    4300116: bamboo11
+    4300118: bamboo10
+    4300120: bamboo9
+    4300122: bamboo8
+    4300124: bamboo7
+    4300126: bamboo6
+    4300128: bamboo5
+    4300130: bamboo4
+    4300132: bamboo3
+    4300134: bamboo2
+    4300136: bamboo1
+    4300138: bamboo
+    4300140: bamboo15
+    4300142: bamboo16
+    4300144: bamboo17
+    4300146: bamboo18
+    4300148: bamboo19
+    4300150: bamboo20
+    4300152: bamboo21
+    4300154: log1
+    4300156: Y_log
+    4300158: Y_log1
+    4300160: Y_log3
+    4300162: Y_log2
+    4300164: platform
+    4300166: platform1
+    4300168: bamboo27
+    4300170: bamboo26
+    4300172: bamboo25
+    4300174: bamboo24
+    4300176: bamboo23
+    4300178: bigRock
+    4300180: stump1
+    4300182: log1
+    4300184: Y_log
+    4300186: Y_log1
+    4300188: house
+    4300190: stump2
+    4300192: log5
+    4300194: log3
+    4300196: log2
+    4300198: log4
+    4300200: hollow_log
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
