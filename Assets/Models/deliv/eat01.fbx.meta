@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 83b855e7bbbf24c49828ce8955f8febb
+timeCreated: 1525304140
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head_JawEndSHJnt
+    100004: Head_JawSHJnt
+    100006: Head_TopSHJnt
+    100008: lf_Clavicle_AuxSHJnt
+    100010: lf_ear_01_01SHJnt
+    100012: lf_ear_01_02SHJnt
+    100014: lf_ear_01_03SHJnt
+    100016: lf_Eye_01SHJnt
+    100018: lf_FrontLeg_AnkleSHJnt
+    100020: lf_FrontLeg_BallSHJnt
+    100022: lf_FrontLeg_HipSHJnt
+    100024: lf_FrontLeg_KneeSHJnt
+    100026: lf_FrontLeg_ToeSHJnt
+    100028: lf_HindLeg_AnkleSHJnt
+    100030: lf_HindLeg_BallSHJnt
+    100032: lf_HindLeg_HipSHJnt
+    100034: lf_HindLeg_Knee1SHJnt
+    100036: lf_HindLeg_Knee2SHJnt
+    100038: lf_HindLeg_ToeSHJnt
+    100040: lower_teeth_01_01SHJnt
+    100042: Neck_01SHJnt
+    100044: Neck_02SHJnt
+    100046: Neck_TopSHJnt
+    100048: ROOTSHJnt
+    100050: rt_Clavicle_AuxSHJnt
+    100052: rt_ear_01_01SHJnt
+    100054: rt_ear_01_02SHJnt
+    100056: rt_ear_01_03SHJnt
+    100058: rt_Eye_01SHJnt
+    100060: rt_FrontLeg_AnkleSHJnt
+    100062: rt_FrontLeg_BallSHJnt
+    100064: rt_FrontLeg_HipSHJnt
+    100066: rt_FrontLeg_KneeSHJnt
+    100068: rt_FrontLeg_ToeSHJnt
+    100070: rt_HindLeg_AnkleSHJnt
+    100072: rt_HindLeg_BallSHJnt
+    100074: rt_HindLeg_HipSHJnt
+    100076: rt_HindLeg_Knee1SHJnt
+    100078: rt_HindLeg_Knee2SHJnt
+    100080: rt_HindLeg_ToeSHJnt
+    100082: Spine_01SHJnt
+    100084: Spine_02SHJnt
+    100086: Spine_03SHJnt
+    100088: Spine_04SHJnt
+    100090: Spine_TopSHJnt
+    100092: tail_01_01SHJnt
+    100094: tail_01_02SHJnt
+    100096: tail_01_03SHJnt
+    100098: tail_01_04SHJnt
+    100100: tail_01_05SHJnt
+    100102: tail_01_06SHJnt
+    100104: tongue_01_01SHJnt
+    100106: tongue_01_02SHJnt
+    100108: tongue_01_03SHJnt
+    100110: TrajectorySHJnt
+    100112: upper_teeth_01_01SHJnt
+    400000: //RootNode
+    400002: Head_JawEndSHJnt
+    400004: Head_JawSHJnt
+    400006: Head_TopSHJnt
+    400008: lf_Clavicle_AuxSHJnt
+    400010: lf_ear_01_01SHJnt
+    400012: lf_ear_01_02SHJnt
+    400014: lf_ear_01_03SHJnt
+    400016: lf_Eye_01SHJnt
+    400018: lf_FrontLeg_AnkleSHJnt
+    400020: lf_FrontLeg_BallSHJnt
+    400022: lf_FrontLeg_HipSHJnt
+    400024: lf_FrontLeg_KneeSHJnt
+    400026: lf_FrontLeg_ToeSHJnt
+    400028: lf_HindLeg_AnkleSHJnt
+    400030: lf_HindLeg_BallSHJnt
+    400032: lf_HindLeg_HipSHJnt
+    400034: lf_HindLeg_Knee1SHJnt
+    400036: lf_HindLeg_Knee2SHJnt
+    400038: lf_HindLeg_ToeSHJnt
+    400040: lower_teeth_01_01SHJnt
+    400042: Neck_01SHJnt
+    400044: Neck_02SHJnt
+    400046: Neck_TopSHJnt
+    400048: ROOTSHJnt
+    400050: rt_Clavicle_AuxSHJnt
+    400052: rt_ear_01_01SHJnt
+    400054: rt_ear_01_02SHJnt
+    400056: rt_ear_01_03SHJnt
+    400058: rt_Eye_01SHJnt
+    400060: rt_FrontLeg_AnkleSHJnt
+    400062: rt_FrontLeg_BallSHJnt
+    400064: rt_FrontLeg_HipSHJnt
+    400066: rt_FrontLeg_KneeSHJnt
+    400068: rt_FrontLeg_ToeSHJnt
+    400070: rt_HindLeg_AnkleSHJnt
+    400072: rt_HindLeg_BallSHJnt
+    400074: rt_HindLeg_HipSHJnt
+    400076: rt_HindLeg_Knee1SHJnt
+    400078: rt_HindLeg_Knee2SHJnt
+    400080: rt_HindLeg_ToeSHJnt
+    400082: Spine_01SHJnt
+    400084: Spine_02SHJnt
+    400086: Spine_03SHJnt
+    400088: Spine_04SHJnt
+    400090: Spine_TopSHJnt
+    400092: tail_01_01SHJnt
+    400094: tail_01_02SHJnt
+    400096: tail_01_03SHJnt
+    400098: tail_01_04SHJnt
+    400100: tail_01_05SHJnt
+    400102: tail_01_06SHJnt
+    400104: tongue_01_01SHJnt
+    400106: tongue_01_02SHJnt
+    400108: tongue_01_03SHJnt
+    400110: TrajectorySHJnt
+    400112: upper_teeth_01_01SHJnt
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,7 +8,7 @@ public class CharacterController : MonoBehaviour {
 
 	Rigidbody rigidB;
 
-	float moveZ = -0.15f;
+	float moveZ = -0.75f;
 	int numCyclesWalked = 0;
 	float scaleZ = 1f;
 
