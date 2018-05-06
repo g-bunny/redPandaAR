@@ -43,10 +43,14 @@ public class DeployStageOnce : MonoBehaviour {
 		}
 
 		var anchor = _deviceTracker.CreatePlaneAnchor(Guid.NewGuid().ToString(), result);
+		GameObject anchorGO = new GameObject ();
+		anchorGO.transform.position = result.Position;
+		anchorGO.transform.rotation = result.Rotation;
+
 
 		if (anchor != null)
 		{
-			AnchorStage.transform.parent = anchor.transform;
+			AnchorStage.transform.parent = anchorGO.transform;
 			AnchorStage.transform.localPosition = Vector3.zero;
 			AnchorStage.transform.localRotation = Quaternion.identity;
 			AnchorStage.SetActive(true);
@@ -57,6 +61,6 @@ public class DeployStageOnce : MonoBehaviour {
 			Destroy(_previousAnchor);
 		}
 
-		_previousAnchor = anchor;
+		_previousAnchor = anchorGO;
 	}
 }
