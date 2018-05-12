@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pacer : MonoBehaviour {
+public class animEdit : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

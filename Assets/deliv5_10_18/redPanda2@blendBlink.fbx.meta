@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 3283c6a616ebe46fd9d13761be2020ed
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Head_JawEndSHJnt
+    100002: Head_JawSHJnt
+    100004: Head_TopSHJnt
+    100006: lf_Clavicle_AuxSHJnt
+    100008: lf_ear_01_01SHJnt
+    100010: lf_ear_01_02SHJnt
+    100012: lf_ear_01_03SHJnt
+    100014: lf_Eye_01SHJnt
+    100016: lf_FrontLeg_AnkleSHJnt
+    100018: lf_FrontLeg_BallSHJnt
+    100020: lf_FrontLeg_HipSHJnt
+    100022: lf_FrontLeg_KneeSHJnt
+    100024: lf_FrontLeg_ToeSHJnt
+    100026: lf_HindLeg_AnkleSHJnt
+    100028: lf_HindLeg_BallSHJnt
+    100030: lf_HindLeg_HipSHJnt
+    100032: lf_HindLeg_Knee1SHJnt
+    100034: lf_HindLeg_Knee2SHJnt
+    100036: lf_HindLeg_ToeSHJnt
+    100038: lower_teeth_01_01SHJnt
+    100040: Neck_01SHJnt
+    100042: Neck_02SHJnt
+    100044: Neck_TopSHJnt
+    100046: pandaPatch
+    100048: //RootNode
+    100050: ROOTSHJnt
+    100052: rp_body1
+    100054: rp_head1
+    100056: rp_lf_eye
+    100058: rp_lw_teeth
+    100060: rp_rt_eye
+    100062: rp_tail1
+    100064: rp_tongue
+    100066: rp_up_teeth
+    100068: rt_Clavicle_AuxSHJnt
+    100070: rt_ear_01_01SHJnt
+    100072: rt_ear_01_02SHJnt
+    100074: rt_ear_01_03SHJnt
+    100076: rt_Eye_01SHJnt
+    100078: rt_FrontLeg_AnkleSHJnt
+    100080: rt_FrontLeg_BallSHJnt
+    100082: rt_FrontLeg_HipSHJnt
+    100084: rt_FrontLeg_KneeSHJnt
+    100086: rt_FrontLeg_ToeSHJnt
+    100088: rt_HindLeg_AnkleSHJnt
+    100090: rt_HindLeg_BallSHJnt
+    100092: rt_HindLeg_HipSHJnt
+    100094: rt_HindLeg_Knee1SHJnt
+    100096: rt_HindLeg_Knee2SHJnt
+    100098: rt_HindLeg_ToeSHJnt
+    100100: Spine_01SHJnt
+    100102: Spine_02SHJnt
+    100104: Spine_03SHJnt
+    100106: Spine_04SHJnt
+    100108: Spine_TopSHJnt
+    100110: tail_01_01SHJnt
+    100112: tail_01_02SHJnt
+    100114: tail_01_03SHJnt
+    100116: tail_01_04SHJnt
+    100118: tail_01_05SHJnt
+    100120: tail_01_06SHJnt
+    100122: tongue_01_01SHJnt
+    100124: tongue_01_02SHJnt
+    100126: tongue_01_03SHJnt
+    100128: TrajectorySHJnt
+    100130: upper_teeth_01_01SHJnt
+    400000: Head_JawEndSHJnt
+    400002: Head_JawSHJnt
+    400004: Head_TopSHJnt
+    400006: lf_Clavicle_AuxSHJnt
+    400008: lf_ear_01_01SHJnt
+    400010: lf_ear_01_02SHJnt
+    400012: lf_ear_01_03SHJnt
+    400014: lf_Eye_01SHJnt
+    400016: lf_FrontLeg_AnkleSHJnt
+    400018: lf_FrontLeg_BallSHJnt
+    400020: lf_FrontLeg_HipSHJnt
+    400022: lf_FrontLeg_KneeSHJnt
+    400024: lf_FrontLeg_ToeSHJnt
+    400026: lf_HindLeg_AnkleSHJnt
+    400028: lf_HindLeg_BallSHJnt
+    400030: lf_HindLeg_HipSHJnt
+    400032: lf_HindLeg_Knee1SHJnt
+    400034: lf_HindLeg_Knee2SHJnt
+    400036: lf_HindLeg_ToeSHJnt
+    400038: lower_teeth_01_01SHJnt
+    400040: Neck_01SHJnt
+    400042: Neck_02SHJnt
+    400044: Neck_TopSHJnt
+    400046: pandaPatch
+    400048: //RootNode
+    400050: ROOTSHJnt
+    400052: rp_body1
+    400054: rp_head1
+    400056: rp_lf_eye
+    400058: rp_lw_teeth
+    400060: rp_rt_eye
+    400062: rp_tail1
+    400064: rp_tongue
+    400066: rp_up_teeth
+    400068: rt_Clavicle_AuxSHJnt
+    400070: rt_ear_01_01SHJnt
+    400072: rt_ear_01_02SHJnt
+    400074: rt_ear_01_03SHJnt
+    400076: rt_Eye_01SHJnt
+    400078: rt_FrontLeg_AnkleSHJnt
+    400080: rt_FrontLeg_BallSHJnt
+    400082: rt_FrontLeg_HipSHJnt
+    400084: rt_FrontLeg_KneeSHJnt
+    400086: rt_FrontLeg_ToeSHJnt
+    400088: rt_HindLeg_AnkleSHJnt
+    400090: rt_HindLeg_BallSHJnt
+    400092: rt_HindLeg_HipSHJnt
+    400094: rt_HindLeg_Knee1SHJnt
+    400096: rt_HindLeg_Knee2SHJnt
+    400098: rt_HindLeg_ToeSHJnt
+    400100: Spine_01SHJnt
+    400102: Spine_02SHJnt
+    400104: Spine_03SHJnt
+    400106: Spine_04SHJnt
+    400108: Spine_TopSHJnt
+    400110: tail_01_01SHJnt
+    400112: tail_01_02SHJnt
+    400114: tail_01_03SHJnt
+    400116: tail_01_04SHJnt
+    400118: tail_01_05SHJnt
+    400120: tail_01_06SHJnt
+    400122: tongue_01_01SHJnt
+    400124: tongue_01_02SHJnt
+    400126: tongue_01_03SHJnt
+    400128: TrajectorySHJnt
+    400130: upper_teeth_01_01SHJnt
+    2100000: lambert1
+    4300000: rp_lf_eye
+    4300002: rp_rt_eye
+    4300004: rp_up_teeth
+    4300006: rp_tongue
+    4300008: rp_lw_teeth
+    4300010: rp_head1
+    4300012: rp_body1
+    4300014: rp_tail1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: rp_body1
+    13700002: rp_head1
+    13700004: rp_lf_eye
+    13700006: rp_lw_teeth
+    13700008: rp_rt_eye
+    13700010: rp_tail1
+    13700012: rp_tongue
+    13700014: rp_up_teeth
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
